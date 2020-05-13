@@ -1,7 +1,8 @@
-/target/
+/target
 /.idea/
 /project/project/
 /project/target/
 /spark-warehouse/
 *.iml
 .project
+project/
