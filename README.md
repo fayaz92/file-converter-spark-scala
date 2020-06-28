@@ -1,5 +1,5 @@
 <p>
-  <a href="https://twitter.com/intent/follow?screen_name=FayazMohamedd"><img align="left" src="https://img.shields.io/twitter/follow/FayazMohamedd.svg?style=social&label=Follow%20@FayazMohamedd" alt="Follow on Twitter"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=FayazMohamedd"><img align="left" src="https://img.shields.io/twitter/follow/mfayazai.svg?style=social&label=Follow%20@mfayazai" alt="Follow on Twitter"></a>
 <br />
 </p>
 
